@@ -1,0 +1,16 @@
+{
+  "name": "first-project-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "João Henrique",
+  "license": "ISC",
+  "dependencies": {
+    "first-project-node": "file:"
+  }
+}
