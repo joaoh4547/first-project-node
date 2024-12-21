@@ -11,6 +11,7 @@
   "author": "João Henrique",
   "license": "ISC",
   "dependencies": {
-    "first-project-node": "file:"
+    "first-project-node": "file:",
+    "node-fetch": "^3.3.2"
   }
 }
